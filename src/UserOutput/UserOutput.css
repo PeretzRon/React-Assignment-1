@@ -1,0 +1,11 @@
+
+.userOut{
+    font-size: 25px;
+    border: 1px solid black;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.userName{
+    color: red;
+}
